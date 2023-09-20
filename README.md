@@ -23,7 +23,7 @@ Durante o curso, mostrei a importância de realizar o pré-processamento dos dad
 
 Objetivos detalhados:
 
-- Comparar os resultados da clusterização sem e com pré-processamento dos dados, mostrando a importância de se realizar o preprocessamento dos dados.
+- Comparar os resultados da clusterização sem e com pré-processamento dos dados, mostrando a importância de se realizar o pré-processsamento dos dados.
 - Apresentar uma estrutura de projeto de Ciência de Dados, com a utilização de notebooks, scripts, relatórios e repositório no GitHub.
 - Apresentar boas práticas de programação em Python, como a utilização de funções e arquivos de script para facilitar o reaproveitamento de código.
 - Mostrar boas práticas de uso do SciKit-Learn, como a utilização de pipelines.
